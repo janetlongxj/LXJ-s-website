@@ -1,3 +1,5 @@
 # LXJ-s-website
-personal website
-Here to view: Xuejiao (Janet) Long (janetlongxj.github.io)
+Thanks for visit my personal website. Feel free to fork it and create your own. 
+This is based on Hugo Papermod theme
+
+Click to view: [Kyrie Xie (kyxie.github.io)](https://kyxie.github.io/en/)
