@@ -2,4 +2,4 @@
 Thanks for visit my personal website. Feel free to fork it and create your own. 
 This is based on Hugo Papermod theme
 
-Click to view: [Kyrie Xie (kyxie.github.io)](https://kyxie.github.io/en/)
+Click to view: [Xuejiao (Janet) Long (Janetlongxj.github.io)](https://janetlongxj.github.io/en/)
